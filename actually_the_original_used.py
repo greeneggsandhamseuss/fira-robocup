@@ -1,6 +1,6 @@
 # configure during competition
 
-#T1 Drone only
+#T1 Drone 
 HMAX = 130 
 HMID = 115
 HMIN = 70
